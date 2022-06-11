@@ -8,7 +8,7 @@ public class Main {
         action.setName3("パー");
 
         action.syoubu();
-        System.out.println("勝ち負けと、あいこがある。");
+        System.out.println("勝ちor負けと、あいこがある。");
 
     }
 }
