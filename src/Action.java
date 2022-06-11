@@ -31,10 +31,10 @@ public class Action {
     public void syoubu(){
         System.out.println("じゃんけんの最初は" + name1);
         System.out.println(name1 + "は、" + name2 + "に勝ち！" +
-                name3 + "に負ける！");
+                name3 + "に負ける。");
         System.out.println(name2 + "は、" + name3 + "に勝ち！" +
-                name1 + "に負ける！");
+                name1 + "に負ける。");
         System.out.println(name3 + "は、" + name1 + "に勝ち！" +
-                name2 + "に負ける！");
+                name2 + "に負ける。");
     }
 }
