@@ -36,5 +36,7 @@ public class Action {
                 name1 + "に負ける。");
         System.out.println(name3 + "は、" + name1 + "に勝ち！" +
                 name2 + "に負ける。");
+
+        System.out.println(name1 + "と" + name1 + "であればあいこ。");
     }
 }
