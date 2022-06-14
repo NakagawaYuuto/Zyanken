@@ -10,5 +10,7 @@ public class Main {
         action.syoubu();
         System.out.println("勝ちor負けと、あいこがある。");
 
+        System.out.println("日本の掛け声は「最初はグー」から始まる。");
+
     }
 }
